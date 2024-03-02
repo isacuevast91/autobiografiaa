@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Practica de Retroalimentacion Autobiografia>
+</head>
+<body>
+<h1><center><u><marquee><font face="Didot" color="black">"AUTOBIOGRAFIA"</font></u></marquee></center></h1>
+<center><font face="Didot" color="pink"><h1>Isabel Cuevas</h1></font><img src=></u>
+<body bgcolor=#BD90B7>
+<img src="D:\DAC\RETROALIMENTACION_CUEVASMURILLO 4BPM\IMAGENES\a69b246b-5008-4674-9a7e-18703296cab4.jpg">
+<font face="times" color=#735668><p align="center"><h2>
+Me llamo Rosalba Isabel Cuevas Murillo,tengo 16 años, naci el<br>
+03 de Noviembre del 2007 en Tijuana Baja California;Mi mamá se<br>
+llama Rosalba Murillo y mi papá Faustino Cuevas,Él fallecio cuando<br>
+yo tenia 10 meses de edad, soy la menor de 5 hermanos, 3 hermanos y 1 hermana.<br>
+<br>
+Siempre eh tenido una buena rendicion academica,estudie en la<br>
+secundaria Tecnica no.29, ahi hice muchas amistades que sigo<br>
+conservando hasta la fecha, decido entrar a la preparatoria<br>
+Cetis 156 en la especialidad de programacion y estoy cursando<br>
+4to semestre<br>
+<br>
+Soy muy cercana a todos mis hermanos, en especial a mi hermana<br>
+me gusta mucho salir con ellos a comer,tomar cafe,platicar, viajar<br>
+en familia, son como mis mejores amigos y tengo una mejor amiga<br>
+se llama Brisa, a ella la conoci en primaria y se ha vuelto parte<br>
+de mi familia, me gusta mucho pasar tiempo con ella.<br>
+</p></center></font></h2>
+</body>
+</html>
+
+
+
+
+
+
